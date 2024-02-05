@@ -84,27 +84,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/)**
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-
+-   **[React](https://reactjs.org/)**
 #### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
-
+-   **[Async Storage](https://docs.expo.dev/versions/latest/sdk/async-storage/)**
 -   **[Expo](https://expo.io/)**
 -   **[Expo Google Fonts](https://github.com/expo/google-fonts)**
 -   **[React Navigation](https://reactnavigation.org/)**
 > Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/mobile/package.json)
-
-## 👨‍💻 Contribuidores
-
-💜 Um super thanks 👏 para essa galera que fez esse produto sair do campo da ideia e entrar nas lojas de aplicativos :)
-
-<table>
-  <tr>
-    <td align="center">
-    <td align="center"><a href="https://portifolio-luis-guilhaof.vercel.app/"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Luis Felipe G </b></sub></a><br /><a href="https://portifolio-luis-guilhaof.vercel.app/" title="Rocketseat">👨‍🚀</a></td>
-  </tr>
-  </tr>
-</table>
 
 ## 💪 Como contribuir para o projeto
 
@@ -124,7 +110,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/luis-felipe-silv/) 
+[![Linkedin Badge](https://img.shields.io/badge/-luis-felipe-silva?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/luis-felipe-silv/) 
 [![Gmail Badge](https://img.shields.io/badge/-luisphelipe1000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisphelipe1000@gmail.com)](mailto:luisphelipe1000@@gmail.com)
 
 ---
