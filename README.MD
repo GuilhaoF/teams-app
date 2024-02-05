@@ -1,26 +1,6 @@
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
-  
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/README-ecoleta?style=social">
-  </a>
-
- 
-</p>
 <h1 align="center">
-    <img alt="app-main" title="#NextLevelWeek" src="" />
+    <img alt="app-main" title="#NextLevelWeek" src="https://github.com/GuilhaoF/teams-app/assets/67026555/85ed9acd-592a-4083-9a8c-1889e8125012" />
 </h1>
 
 <h4 align="center"> 
@@ -121,10 +101,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <table>
   <tr>
     <td align="center">
-    <td align="center"></td>
     <td align="center"><a href="https://portifolio-luis-guilhaof.vercel.app/"><img style="border-radius: 50%;" src="" width="100px;" alt=""/><br /><sub><b>Luis Felipe G </b></sub></a><br /><a href="https://portifolio-luis-guilhaof.vercel.app/" title="Rocketseat">👨‍🚀</a></td>
   </tr>
-  <tr>
   </tr>
 </table>
 
@@ -142,7 +120,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://www.linkedin.com/in/luis-felipe-silv/">
  <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
  <br />
- <sub><b>Luis Felipe Guilhao</b></sub></a> <a href="" title="Github">🚀</a>
+ <sub><b>Luis Felipe Guilhao</b></sub></a> <a href="" title="Github">🚀
+</a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/luis-felipe-silv/) 
